@@ -42,7 +42,7 @@ namespace MOONG
 	private:
 
 	public:
-		static const std::string Execute(const std::string command);
+		static const std::string execute(const std::string command);
 	protected:
 	private:
 	};

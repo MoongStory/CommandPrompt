@@ -4,7 +4,7 @@
 
 int main()
 {
-	std::cout << MOONG::CommandPrompt::Execute("ipconfig") << std::endl;
+	std::cout << MOONG::CommandPrompt::execute("ipconfig") << std::endl;
 
 	return 0;
 }

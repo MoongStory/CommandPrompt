@@ -2,7 +2,7 @@
 
 #include <Windows.h>
 
-const std::string MOONG::CommandPrompt::Execute(const std::string command)
+const std::string MOONG::CommandPrompt::execute(const std::string command)
 {
 	std::string output = "";
 
